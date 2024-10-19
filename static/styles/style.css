@@ -1,0 +1,32 @@
+.main {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 680px;
+    padding: 20px;
+    background:#fcfcfc; 
+    -moz-box-shadow:0 0 10px #000; 
+    -webkit-box-shadow:0 0 10px #000; 
+    box-shadow:0 0 10px #000;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.separation {
+    border-bottom: 1px solid #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+p {
+    margin-left: 20px;
+}
+
+.SS {
+    text-align: center;
+}
